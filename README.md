@@ -1,4 +1,4 @@
- #Portfolio for Holly Zoba
+# Portfolio for Holly Zoba
 I created this portfolio to showcase some career highlights before coding, as well as several of the projects I have completed since I enrolled in a coding bootcamp throught the University of Arizona from October, 2017 - April, 2018.
 
 ### How does it work?
@@ -7,7 +7,7 @@ I designed this using primarily materialize - and I have included the docs for t
 ### Who will use this?
 Anyone who is interested in either creating a nicely stylized portfolio to showcase thier work, or to read all about me!
 
-# Credits
+### Credits
 Holly Zoba, sole developer
 
 
